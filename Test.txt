@@ -1,0 +1,5 @@
+Hello 
+my name is Tetyana
+Today is very windy weather
+
+I am study git
